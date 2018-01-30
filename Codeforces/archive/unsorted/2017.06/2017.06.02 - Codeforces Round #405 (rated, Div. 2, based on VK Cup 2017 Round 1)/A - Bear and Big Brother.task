@@ -1,0 +1,39 @@
+24 A - Bear and Big Brother
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+4 4 7
+
+2 2
+
+1
+1
+4 4 9
+
+2 3
+
+1
+2
+4 1 1
+
+2 1
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.02
+67 Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

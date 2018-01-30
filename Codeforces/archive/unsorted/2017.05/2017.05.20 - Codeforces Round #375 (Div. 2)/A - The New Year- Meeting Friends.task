@@ -1,0 +1,37 @@
+33 A - The New Year: Meeting Friends
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+6 7 1 4
+
+2 6
+
+1
+1
+9 30 20 10
+
+3 20
+
+1
+2
+7 1 4 100
+2 99
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.20
+30 Codeforces Round #375 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,39 @@
+11 CounterGame
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+3 1
+6
+7 Richard
+1
+1
+61 3
+6703734870638684097
+7597026128958891522
+6959712971461184279
+22 Richard
+Richard
+Louise
+1
+2
+20 13174607262084689114
+20 13174607262084689114
+0
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+21 solutions.CounterGame
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.08
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

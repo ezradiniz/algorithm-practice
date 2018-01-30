@@ -1,0 +1,29 @@
+23 C - Commentator problem
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+24 0 0 10
+60 0 10
+30 30 10
+
+17 30.00000 0.00000
+
+1
+13 src/solutions
+7 -Xmx64M
+4 Main
+15 solutions.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.13
+24 Codeforces Beta Round #2
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

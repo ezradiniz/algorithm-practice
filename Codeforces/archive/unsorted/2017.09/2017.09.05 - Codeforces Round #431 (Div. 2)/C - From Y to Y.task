@@ -1,0 +1,33 @@
+15 C - From Y to Y
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+3 12
+
+9 abababab
+
+1
+1
+2 3
+
+11 codeforces
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.09.05
+30 Codeforces Round #431 (Div. 2)
+1
+14 util.FastInput
+19 java.io.PrintWriter
+0
+0

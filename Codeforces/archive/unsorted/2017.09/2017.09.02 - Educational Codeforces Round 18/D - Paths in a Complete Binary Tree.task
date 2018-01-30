@@ -1,0 +1,32 @@
+35 D - Paths in a Complete Binary Tree
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+25 15 2
+4
+UURL
+8
+LRLLLLLLLL
+
+5 10
+5
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.09.02
+31 Educational Codeforces Round 18
+1
+14 util.FastInput
+19 java.io.PrintWriter
+0
+0

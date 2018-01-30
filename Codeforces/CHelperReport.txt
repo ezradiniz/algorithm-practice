@@ -1,0 +1,4 @@
+51 src/solutions/C - Mahmoud and Ehab and the xor.task
+2
+0
+1

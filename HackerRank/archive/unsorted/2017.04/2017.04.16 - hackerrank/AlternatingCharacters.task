@@ -1,0 +1,35 @@
+21 AlternatingCharacters
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+35 5
+AAAA
+BBBBB
+ABABABAB
+BABABA
+AAABBB
+10 3
+4
+0
+0
+4
+
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+31 solutions.AlternatingCharacters
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.16
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

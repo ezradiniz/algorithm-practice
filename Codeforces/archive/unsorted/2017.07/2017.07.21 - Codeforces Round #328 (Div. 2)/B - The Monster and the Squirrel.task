@@ -1,0 +1,33 @@
+32 B - The Monster and the Squirrel
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+2 5
+
+2 9
+
+1
+1
+2 3
+
+2 1
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.07.21
+30 Codeforces Round #328 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,63 @@
+39 A - Arpa and a research in Mexican wave
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+9
+0
+7 10 5 3
+
+2 3
+
+1
+1
+7 10 5 7
+
+2 5
+
+1
+2
+8 10 5 12
+
+2 3
+
+1
+3
+29 170963478 151220598 222269210
+8 99914866
+1
+4
+28 290274403 41153108 327683325
+7 3744186
+1
+5
+30 966696824 346707476 1196846860
+9 116557440
+1
+6
+26 27462087 20831796 15492397
+8 15492397
+1
+7
+29 723717988 205757169 291917494
+9 205757169
+1
+8
+29 840585600 770678331 788528791
+9 770678331
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.09.07
+68 Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017)
+1
+14 util.FastInput
+19 java.io.PrintWriter
+0
+0

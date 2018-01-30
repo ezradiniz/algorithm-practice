@@ -1,0 +1,61 @@
+17 A - Fox And Snake
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+4 3 3
+
+12 ###
+..#
+###
+
+1
+1
+4 3 4
+
+15 ####
+...#
+####
+
+1
+2
+4 5 3
+
+20 ###
+..#
+###
+#..
+###
+
+1
+3
+4 9 9
+
+90 #########
+........#
+#########
+#........
+#########
+........#
+#########
+#........
+#########
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.17
+30 Codeforces Round #290 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

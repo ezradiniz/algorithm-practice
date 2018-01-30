@@ -1,0 +1,40 @@
+9 A - Twins
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+6 2
+3 3
+
+2 2
+
+1
+1
+8 3
+2 1 2
+
+2 2
+
+1
+2
+11 5
+4 2 2 2 2
+1 3
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.14
+30 Codeforces Round #111 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,51 @@
+23 C - Registration system
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+29 4
+abacaba
+acaba
+abacaba
+acab
+
+18 OK
+OK
+abacaba1
+OK
+
+1
+1
+40 6
+first
+first
+second
+second
+third
+third
+
+31 OK
+first1
+OK
+second1
+OK
+third1
+
+1
+13 src/solutions
+7 -Xmx64M
+4 Main
+15 solutions.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.25
+38 Codeforces Beta Round #4 (Div. 2 Only)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

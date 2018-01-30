@@ -1,0 +1,50 @@
+22 C - Newspaper Headline
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+8 abc
+xyz
+
+3 -1
+
+1
+1
+10 abcd
+dabc
+
+2 2
+
+1
+2
+89 ibifgcfdbfdhihbifageaaadegbfbhgeebgdgiafgedchdg
+dedfebcfdigdefdediigcfcafbhhiacgfbeccfchd
+1 7
+1
+3
+72 fbaaigiihhfaahgdbddgeggjdeigfadhfddja
+hbghjgijijcdafcbgiedichdeebaddfddb
+2 -1
+1
+4
+10 ab
+baaabba
+1 6
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.02
+39 Codeforces Beta Round #75 (Div. 2 Only)
+1
+14 util.FastInput
+19 java.io.PrintWriter
+0
+0

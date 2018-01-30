@@ -1,0 +1,27 @@
+25 MinimumAbsoluteDifference
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+8 3
+3 -7 0
+2 3
+
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+35 solutions.MinimumAbsoluteDifference
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.10
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,31 @@
+14 MakingAnagrams
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+7 cde
+abc
+1 4
+1
+1
+51 fcrxzwscanmligyxyvym
+jxwtrhvujlmrpdoqbisbwhmgpmeoke
+2 30
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+24 solutions.MakingAnagrams
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.08
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

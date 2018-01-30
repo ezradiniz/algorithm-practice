@@ -1,0 +1,33 @@
+18 B - Cutting Carrot
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+4 3 2
+
+30 1.154700538379 1.632993161855
+
+1
+1
+9 2 100000
+
+19 70710.678118654752
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.26
+79 Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

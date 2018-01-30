@@ -1,0 +1,47 @@
+23 A - Stones on the Table
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+6 3
+RRG
+
+2 1
+
+0
+1
+8 5
+RRRRR
+
+2 4
+
+0
+2
+7 4
+BRBG
+
+2 0
+
+0
+3
+7 5
+RGGRB
+-1
+0
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.14
+30 Codeforces Round #163 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

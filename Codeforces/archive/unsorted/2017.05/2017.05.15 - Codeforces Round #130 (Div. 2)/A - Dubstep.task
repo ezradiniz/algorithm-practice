@@ -1,0 +1,31 @@
+11 A - Dubstep
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+13 WUBWUBABCWUB
+
+4 ABC 
+1
+1
+50 WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB
+
+31 WE ARE THE CHAMPIONS MY FRIEND 
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.15
+30 Codeforces Round #130 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

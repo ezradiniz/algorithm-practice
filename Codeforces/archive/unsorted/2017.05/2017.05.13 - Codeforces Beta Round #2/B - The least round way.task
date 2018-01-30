@@ -1,0 +1,31 @@
+23 B - The least round way
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+20 3
+1 2 3
+4 5 6
+7 8 9
+
+7 0
+DDRR
+
+1
+13 src/solutions
+7 -Xmx64M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.13
+24 Codeforces Beta Round #2
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

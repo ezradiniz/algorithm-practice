@@ -1,0 +1,55 @@
+14 B - Spider Man
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+8 3
+1 2 3
+
+6 2
+1
+1
+
+1
+1
+12 5
+1 1 5 1 1
+
+10 2
+2
+2
+2
+2
+
+1
+2
+100 10
+802030518 598196518 640274071 983359971 71550121 96204862 799843967 446173607 796619138 402690754
+19 1
+2
+2
+2
+2
+1
+1
+1
+2
+1
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.07.22
+30 Codeforces Round #366 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

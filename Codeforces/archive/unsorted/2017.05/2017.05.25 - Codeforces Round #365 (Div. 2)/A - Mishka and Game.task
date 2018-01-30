@@ -1,0 +1,44 @@
+19 A - Mishka and Game
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+14 3
+3 5
+2 1
+4 2
+
+6 Mishka
+1
+1
+10 2
+6 1
+1 6
+
+22 Friendship is magic!^^
+1
+2
+14 3
+1 5
+3 3
+2 2
+
+5 Chris
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.25
+30 Codeforces Round #365 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

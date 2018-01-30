@@ -1,0 +1,48 @@
+27 B - Hongcow Solves A Puzzle
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+12 2 3
+XXX
+XXX
+
+4 YES
+
+1
+1
+10 2 2
+.X
+XX
+
+3 NO
+
+1
+2
+34 5 5
+.....
+..X..
+.....
+.....
+.....
+
+4 YES
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.20
+30 Codeforces Round #385 (Div. 2)
+1
+14 util.FastInput
+19 java.io.PrintWriter
+0
+0

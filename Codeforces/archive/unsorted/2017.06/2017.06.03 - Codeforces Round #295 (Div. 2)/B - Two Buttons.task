@@ -1,0 +1,65 @@
+15 B - Two Buttons
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+10
+0
+4 4 6
+
+2 2
+
+1
+1
+5 10 1
+
+2 9
+
+1
+2
+4 7 10
+1 3
+1
+3
+5 10 12
+1 5
+1
+4
+4 2 12
+1 4
+1
+5
+4 7 13
+1 2
+1
+6
+4 2 10
+1 5
+1
+7
+3 3 1
+1 2
+1
+8
+3 1 3
+1 3
+1
+9
+3 2 1
+1 1
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.03
+30 Codeforces Round #295 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

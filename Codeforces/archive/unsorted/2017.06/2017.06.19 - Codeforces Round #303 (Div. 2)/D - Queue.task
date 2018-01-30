@@ -1,0 +1,48 @@
+9 D - Queue
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+13 5
+15 2 1 5 3
+
+2 4
+
+1
+1
+32 15
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 2
+1
+2
+26 10
+13 2 5 55 21 34 1 8 1 3
+1 6
+1
+3
+29 10
+8 256 16 1 2 1 64 4 128 32
+2 10
+1
+4
+59 10
+10000 40000 10000 50000 20000 100000 10000 100 30000 500
+1 6
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.19
+30 Codeforces Round #303 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

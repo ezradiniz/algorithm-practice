@@ -1,0 +1,45 @@
+8 B - Taxi
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+12 5
+1 2 4 3 3
+
+2 4
+
+1
+1
+18 8
+2 3 4 4 2 1 3 1
+
+2 5
+
+1
+2
+26 12
+1 1 1 1 1 1 1 1 1 1 1 1
+1 3
+1
+3
+3 1
+1
+1 1
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.14
+33 VK Cup 2012 Qualification Round 1
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

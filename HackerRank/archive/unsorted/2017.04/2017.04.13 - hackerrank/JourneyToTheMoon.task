@@ -1,0 +1,33 @@
+16 JourneyToTheMoon
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+7 4 1
+0 2
+1 5
+0
+1
+15 5 3
+0 1
+2 3
+0 4
+1 6
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+26 solutions.JourneyToTheMoon
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.13
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

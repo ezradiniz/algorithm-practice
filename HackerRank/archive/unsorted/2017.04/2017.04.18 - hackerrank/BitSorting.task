@@ -1,0 +1,36 @@
+10 BitSorting
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+45 6
+31415926535897932384626433832795
+1
+3
+10
+3
+5
+43 1
+3
+3
+5
+10
+31415926535897932384626433832795
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+20 solutions.BitSorting
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.18
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

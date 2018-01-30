@@ -1,0 +1,42 @@
+23 B - Queue at the School
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+10 5 1
+BGGBG
+
+6 GBGGB
+
+1
+1
+10 5 2
+BGGBG
+
+6 GGBGB
+
+1
+2
+9 4 1
+GGGB
+
+5 GGGB
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.14
+30 Codeforces Round #163 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,34 @@
+22 A - Way Too Long Words
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+87 4
+word
+localization
+internationalization
+pneumonoultramicroscopicsilicovolcanoconiosis
+
+20 word
+l10n
+i18n
+p43s
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.13
+34 Codeforces Beta Round #65 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

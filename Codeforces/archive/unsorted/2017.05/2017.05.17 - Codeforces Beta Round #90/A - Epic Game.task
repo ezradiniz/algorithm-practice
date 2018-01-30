@@ -1,0 +1,31 @@
+13 A - Epic Game
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+6 3 5 9
+
+1 0
+1
+1
+8 1 1 100
+
+1 1
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.17
+25 Codeforces Beta Round #90
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

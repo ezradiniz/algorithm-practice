@@ -1,0 +1,71 @@
+19 A - Bus to Udayland
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+38 6
+OO|OX
+XO|XX
+OX|OO
+XX|OX
+OO|OO
+OO|XX
+
+40 YES
+++|OX
+XO|XX
+OX|OO
+XX|OX
+OO|OO
+OO|XX
+
+1
+1
+26 4
+XO|OX
+XO|XX
+OX|OX
+XX|OX
+
+3 NO
+
+1
+2
+32 5
+XX|XX
+XX|XX
+XO|OX
+XO|OO
+OX|XO
+
+34 YES
+XX|XX
+XX|XX
+XO|OX
+XO|++
+OX|XO
+
+1
+3
+7 1
+OO|OO
+9 YES
+++|OO
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.25
+30 Codeforces Round #369 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

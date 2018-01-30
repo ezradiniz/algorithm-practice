@@ -1,0 +1,46 @@
+9 A - Array
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+9 3
+-1 2 0
+
+13 1 -1
+1 2
+1 0
+
+1
+1
+13 4
+-1 -2 -3 0
+
+17 1 -1
+2 -3 -2
+1 0
+
+1
+2
+13 5
+-1 -2 1 2 0
+17 1 -1
+2 1 2
+2 0 -2
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.07.28
+30 Codeforces Round #181 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,27 @@
+14 A - Watermelon
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+2 8
+
+4 YES
+
+1
+13 src/solutions
+7 -Xmx64M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.13
+38 Codeforces Beta Round #4 (Div. 2 Only)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

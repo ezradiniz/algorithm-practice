@@ -1,0 +1,41 @@
+12 GameOfStones
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+18 8
+1
+2
+3
+4
+5
+6
+7
+10
+50 Second
+First
+First
+First
+First
+First
+Second
+First
+
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+22 solutions.GameOfStones
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.17
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

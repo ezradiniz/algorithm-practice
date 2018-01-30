@@ -1,0 +1,31 @@
+13 MarcsCakewalk
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+7 3
+1 3 2
+2 11
+1
+1
+157 40
+819 701 578 403 50 400 983 665 510 523 696 532 51 449 333 234 958 460 277 347 950 53 123 227 646 190 938 61 409 110 61 178 659 989 625 237 944 550 954 439
+14 59715404338867
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+23 solutions.MarcsCakewalk
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.10
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

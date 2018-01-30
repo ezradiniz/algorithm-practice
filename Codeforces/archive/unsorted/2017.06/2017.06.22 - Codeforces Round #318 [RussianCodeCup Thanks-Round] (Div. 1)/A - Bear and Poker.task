@@ -1,0 +1,35 @@
+18 A - Bear and Poker
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+15 4
+75 150 75 50
+
+4 Yes
+
+1
+1
+14 3
+100 150 250
+
+3 No
+
+1
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.22
+60 Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 1)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,67 @@
+15 CrosswordPuzzle
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+137 +-++++++++
++-++++++++
++-++++++++
++-----++++
++-+++-++++
++-+++-++++
++++++-++++
+++------++
++++++-++++
++++++-++++
+LONDON;DELHI;ICELAND;ANKARA
+109 +L++++++++
++O++++++++
++N++++++++
++DELHI++++
++O+++C++++
++N+++E++++
++++++L++++
+++ANKARA++
++++++N++++
++++++D++++
+1
+1
+137 +-++++++++
++-++++++++
++-------++
++-++++++++
++-++++++++
++------+++
++-+++-++++
++++++-++++
++++++-++++
+++++++++++
+AGRA;NORWAY;ENGLAND;GWALIOR
+109 +E++++++++
++N++++++++
++GWALIOR++
++L++++++++
++A++++++++
++NORWAY+++
++D+++G++++
++++++R++++
++++++A++++
+++++++++++
+1
+13 src/solutions
+16 -Xmx256m -Xss64m
+4 Main
+25 solutions.CrosswordPuzzle
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.04.09
+10 hackerrank
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

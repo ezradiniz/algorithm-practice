@@ -1,0 +1,74 @@
+10 A - Winner
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+5
+0
+25 3
+mike 3
+andrew 5
+mike 2
+
+7 andrew
+
+1
+1
+27 3
+andrew 3
+andrew 2
+mike 5
+
+7 andrew
+
+1
+2
+327 15
+aawtvezfntstrcpgbzjbf 681
+zhahpvqiptvksnbjkdvmknb -74
+aawtvezfntstrcpgbzjbf 661
+jpdwmyke 474
+aawtvezfntstrcpgbzjbf -547
+aawtvezfntstrcpgbzjbf 600
+zhahpvqiptvksnbjkdvmknb -11
+jpdwmyke 711
+bjmj 652
+aawtvezfntstrcpgbzjbf -1000
+aawtvezfntstrcpgbzjbf -171
+bjmj -302
+aawtvezfntstrcpgbzjbf 961
+zhahpvqiptvksnbjkdvmknb 848
+bjmj -735
+21 aawtvezfntstrcpgbzjbf
+1
+3
+36 4
+Masha 12
+Masha -5
+Sasha 10
+Masha 3
+5 Masha
+1
+4
+19 4
+a -9
+a 10
+c 1
+b 1
+1 a
+1
+13 src/solutions
+7 -Xmx64M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.13
+24 Codeforces Beta Round #2
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

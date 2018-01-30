@@ -1,0 +1,39 @@
+12 A - Fraction
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+2 3
+
+4 1 2
+
+1
+1
+2 4
+
+4 1 3
+
+1
+2
+3 12
+
+4 5 7
+
+1
+13 src/solutions
+8 -Xmx512M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.09.06
+65 Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)
+1
+14 util.FastInput
+19 java.io.PrintWriter
+0
+0

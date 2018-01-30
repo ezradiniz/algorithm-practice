@@ -1,0 +1,47 @@
+11 A - Boredom
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+4
+0
+6 2
+1 2
+
+2 2
+
+0
+1
+8 3
+1 2 3
+
+2 4
+
+0
+2
+20 9
+1 2 1 3 2 2 2 2 3
+
+3 10
+
+1
+3
+11 5
+3 3 4 5 4
+2 11
+0
+13 src/solutions
+8 -Xmx256M
+4 Main
+15 solutions.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.05.20
+30 Codeforces Round #260 (Div. 1)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

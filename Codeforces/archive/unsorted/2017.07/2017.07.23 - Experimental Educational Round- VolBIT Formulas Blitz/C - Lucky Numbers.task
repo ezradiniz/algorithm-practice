@@ -1,0 +1,29 @@
+17 C - Lucky Numbers
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+1 2
+1 6
+1
+1
+1 5
+-1
+1
+13 src/solutions
+7 -Xmx64M
+4 Main
+15 solutions.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.07.23
+53 Experimental Educational Round: VolBIT Formulas Blitz
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0
