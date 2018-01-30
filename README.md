@@ -1,2 +1,3 @@
-# algorithm-practice
-Old solutions (Archived)
+# Competitive Programming (Archived) 💩
+
+My old solutions
